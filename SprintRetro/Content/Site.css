@@ -22,3 +22,15 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.mainheader {
+    margin-bottom: 10px;
+}
+
+.mainheader .apptitle{
+    color: white;
+}
+
+.mainheader .applogo {
+    color: white;
+}
